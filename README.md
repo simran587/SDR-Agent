@@ -1,7 +1,7 @@
 # Grok-Powered SDR Demo
 
 ## Overview
-A lean SDR tool using Grok API for lead qual and outreach. Demo-ready in 4hrs!
+A lean SDR tool using Grok API for lead qual and outreach.
 
 ## Setup
 1. Redeem promo at [console.x.ai](https://console.x.ai) → Add key to `grok_client.py`.
